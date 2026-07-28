@@ -5,7 +5,7 @@
 ### *Decoding neural spikes, one neuron at a time.*
 
 <p align="center">
-  <img src="logo.jpg" alt="Spiking Cats Logo" width="280"/>
+  <img src="logo.jpg" alt="Spiking Cats Logo" width="80"/>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
